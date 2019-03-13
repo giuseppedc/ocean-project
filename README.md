@@ -1,7 +1,7 @@
 # ocean-project
 #Coded by Giuseppe DeLeers-Certo
 Project compares pH levels between northern and southern hemispheres of the Atlantic Ocean between 1/10/2015 and 5/1/2017.
-All data gathered from OOI data portal, specifically from Global Argentine Basin station and Global Irminger Sea Station.
+All data downloaded from the OOI data portal, specifically from Global Argentine Basin station and Global Irminger Sea Station (OOI user account required to download).
 pH data is gathered from a depth of approximately 30m.
 Data is averaged by approximate month.
 
