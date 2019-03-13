@@ -5,7 +5,7 @@ All data gathered from OOI data portal, specifically from Global Argentine Basin
 pH data is gathered from a depth of approximately 30m.
 Data is averaged by approximate month.
 
-Data analysis is performed comparing the pH levels in the two locations against one another.
+Data analysis is performed comparing the monthly average pH level in the two locations against one another.
 
 Global Argentine Basin Source: https://ooinet.oceanobservatories.org/data_access/?search=GA03FLMB-RIS01-04-PHSENF000#GA03FLMB-RIS01-04-PHSENF000/phsen_abcdef_instrument
 
